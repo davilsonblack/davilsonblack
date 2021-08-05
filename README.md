@@ -1,6 +1,6 @@
 <span align="center">
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
+## <img src="https://i2.wp.com/media.giphy.com/media/4vAS9b5gIl3JS/giphy.gif?resize=800%2C600&ssl=1" width="40px"> Olá seja bem-vindo(a)!</h2>
 
 </span>
 
