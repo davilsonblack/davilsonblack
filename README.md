@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://pixabay.com/photos/website-code-html-coding-647013/" width="700px" />
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
 
 </div>
 
