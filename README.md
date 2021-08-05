@@ -13,17 +13,17 @@
 
 <br>
 <p align="center">
-  Sou <strong>Designer Gráfico</strong> e <strong>Estudante de Programação</strong>.<br />
+  Sou um estudante de <strong>Analise e Desenvolviemnto de Sistemas</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
 e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Javascript, Figma, GitHub, Vercel, Photoshop.</strong>
+   Habilidades: <strong>Javascript, Python, GitHub, Bootstrap, Html, Css.</strong>
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>JavaScript, Typescript e React.</strong>
+  🚀  Estudando: <strong>Frameworks, Database e Versionamento.</strong>
 </p>
 
 <p align="center">
@@ -43,17 +43,10 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 <p align="center">
   
  
- <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
-
-
+<img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
 <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
-  
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/-MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Firebase-%23F7DF1E.svg?style=flat-square&logo=firebase&logoColor=white" height="25"/>
 
 </p>
 
