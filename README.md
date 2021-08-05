@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://i2.wp.com/media.giphy.com/media/4vAS9b5gIl3JS/giphy.gif?resize=800%2C600&ssl=1" width="700px" />
+<img src="https://pixabay.com/photos/website-code-html-coding-647013/" width="700px" />
 
 </div>
 
